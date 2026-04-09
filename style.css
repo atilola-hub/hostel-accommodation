@@ -7,6 +7,11 @@ body {
 h1 {
   border-style: dashed;
 }
+h1{
+border: 2px solid greenyellow;
+  border-radius: 5px;
+}
+
 label {
   color:red;
   border-top-style: dotted;
@@ -15,7 +20,10 @@ label {
   border-left-style: solid;
 }
 }
-
+label {
+  margin: 70px;
+  border: 1px solid #4CAF50;
+}
 div {
   color:yellow;
 }
