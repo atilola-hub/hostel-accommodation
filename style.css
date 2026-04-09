@@ -5,12 +5,17 @@
 body {
   color:antiquewhite;
 h1 {
-  border: 2px solid black;
+  border-style: dashed;
 }
 label {
   color:red;
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
 }
 }
+
 div {
   color:yellow;
 }
