@@ -12,6 +12,11 @@ border: 2px solid greenyellow;
   border-radius: 5px;
 }
 
+h1 {
+  padding: 25px;
+  border: 1px solid #4CAF50;
+}
+
 label {
   color:red;
   border-top-style: dotted;
@@ -21,7 +26,7 @@ label {
 }
 }
 label {
-  margin: 70px;
+  margin: 20px;
   border: 1px solid #4CAF50;
 }
 div {
