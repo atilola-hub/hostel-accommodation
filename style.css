@@ -4,13 +4,19 @@
 }
 body {
   color:antiquewhite;
-
+h1 {
+  border: 2px solid black;
+}
+label {
+  color:red;
+}
 }
 div {
   color:yellow;
 }
 
 .myName {
+  
   color: gray;
   color: red;
 }
