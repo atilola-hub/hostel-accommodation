@@ -1,4 +1,22 @@
 * {
-  text-align: non;
-  color: blue;
+  text-align: none;
+  color: black;
+}
+body {
+  color:antiquewhite;
+
+}
+div {
+  color:yellow;
+}
+
+.myName {
+  color: gray;
+  color: red;
+}
+
+#Name {
+  color: cyan;
+  background-color: red;
+  text-align: center;
 }
