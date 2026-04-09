@@ -1,30 +1,40 @@
 * {
-  text-align: none;
+  text-align: center;
   color: black;
 }
 body {
-  color:antiquewhite;
+  color:black;
+  
+}
+
 h1 {
   border-style: dashed;
+}
+h1 {
+
+  font-family: Tahoma, Verdana, sans-serif;
+
 }
 h1{
 border: 2px solid greenyellow;
   border-radius: 5px;
-}
+
+} 
 
 h1 {
   padding: 25px;
   border: 1px solid #4CAF50;
+
 }
 
 label {
-  color:red;
+  color:black;
   border-top-style: dotted;
   border-right-style: solid;
   border-bottom-style: dotted;
   border-left-style: solid;
 }
-}
+
 label {
   margin: 20px;
   border: 1px solid #4CAF50;
